@@ -1,5 +1,7 @@
 # Single-Nucleotide-Polymorphisms (SNP)
 
+A single nucleotide polymorphism, also known as simple nucleotide polymorphism, (SNP, pronounced snip; plural snips) is a DNA sequence variation occurring commonly within a population (e.g. 1%) in which a single nucleotide - A, T, C or G of a shared sequence differs between members of a biological species (or paired chromosome of the same individual).
+
 **Map SNPs to Genes & Chromosome Loci**
 (aka: SNP identifier mapping)
 &nbsp;
