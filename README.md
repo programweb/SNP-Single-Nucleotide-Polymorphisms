@@ -9,7 +9,7 @@ It is possible to use the Entrez Programming Utilities (E-utilities) to query th
    1) we can run a query
    2) we can pipe that query XML output to efetch:
 
-![Screen Shot 2023-11-09 at 6 46 09 PM](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/6f4b80d6-4212-4c2d-8253-862f0fcfcf32)
+![aaa](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/3c37a69b-9583-480b-856a-18d98fbe8b22)
 
 There are a plethora of single nucleotide polymorphism related tools 
 &nbsp;
@@ -45,5 +45,6 @@ With the rapid growth of whole genome sequencing technology, researchers are unc
 
 Here is an example with: rs4244285
 
-![top](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/7b65ddbb-a00b-4bc2-a098-fcf444cb45ce)
-![bottom](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/fd128a09-cfbc-43ff-8926-c0d1296f580a)
+![bbb](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/fd4bc6a6-f8bb-496b-b375-4ee991eb0828)
+![ccc](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/a3f63559-bceb-4bb2-8414-d694dadb85bc)
+
