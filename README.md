@@ -49,8 +49,30 @@ Here is one example (you could query with multiple SNP identifiers) with: rs4244
 ![ccc](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/a3f63559-bceb-4bb2-8414-d694dadb85bc)
 &nbsp;
 
+&nbsp;
+
 You can also learn more from the SNP identifier (I stick with rs4244285 here) at the Ensembl Genome Browser website
 using a URL like http://useast.ensembl.org/Homo_sapiens/Variation/Explore?v=rs4244285;
 &nbsp;
 
 ![Screen Shot 2023-11-29 at 8 01 15 AM](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/6c0a327c-fbd4-4cc2-bb48-b7a9521aef06)
+&nbsp;
+
+&nbsp;
+
+You can read about this SNP in depth at SNPedia 
+https://www.snpedia.com/index.php/Rs4244285
+&nbsp;
+
+![snpedia](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/3cc1cb54-1b5d-4ca6-a285-288aa403bf5e)
+&nbsp;
+
+&nbsp;
+
+You might learn from there that this SNP occurs in the CYP2C19 gene;
+&nbsp;
+
+In my application sunkencreek.com (Protein tab of the Sequence page) I can zoom in and rotate the model of the protein expressed by the CYP2C19 gene (hey, I figure this is a time for cheap advertising!)
+&nbsp;
+
+![Screen Shot 2023-11-29 at 8 23 06 AM](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/90f0f252-9b5b-4ebd-b12f-6805c9ad7e23)
