@@ -43,8 +43,14 @@ The tool g:SNPense maps human single nucleotide polymorphisms (SNP) to gene name
 With the rapid growth of whole genome sequencing technology, researchers are uncovering extensive genetic variation and large collections of known SNPs are available for human and other species. In order to easily map SNP identifiers (e.g. rs4244285) to gene names, chromosomal coordinates and retrieve their functional consequences we now provide a new service called g:SNPense. Information about genome variants is retrieved from dbSNP and mapped to NCBI Genes. Potential functional consequences of the variants are retrieved from Ensembl Variation data and grouped into 35 Sequence Ontology terms of various severity.
 &nbsp;
 
-Here is an example with: rs4244285
+Here is one example (you could query with multiple SNP identifiers) with: rs4244285
 
 ![bbb](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/fd4bc6a6-f8bb-496b-b375-4ee991eb0828)
 ![ccc](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/a3f63559-bceb-4bb2-8414-d694dadb85bc)
+&nbsp;
 
+You can also learn more from the SNP identifier (I stick with rs4244285 here) at the Ensembl Genome Browser website
+using a URL like http://useast.ensembl.org/Homo_sapiens/Variation/Explore?v=rs4244285;
+&nbsp;
+
+![Screen Shot 2023-11-29 at 8 01 15 AM](https://github.com/programweb/Single-Nucleotide-Polymorphisms-SNP-/assets/12736699/6c0a327c-fbd4-4cc2-bb48-b7a9521aef06)
